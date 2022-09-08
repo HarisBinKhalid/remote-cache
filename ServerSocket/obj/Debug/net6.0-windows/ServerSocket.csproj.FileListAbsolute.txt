@@ -1,0 +1,116 @@
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.csproj.AssemblyReference.cache
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfoInputs.cache
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfo.cs
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\ServerSocket.exe
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\ServerSocket.dll.config
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\ServerSocket.deps.json
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\ServerSocket.runtimeconfig.json
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\ServerSocket.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\ServerSocket.pdb
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Remote Cache\Remote Cache\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.csproj.CopyComplete
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.dll
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\refint\ServerSocket.dll
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.pdb
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ServerSocket.genruntimeconfig.cache
+D:\C#\Remote Cache\Remote Cache\obj\Debug\net6.0-windows\ref\ServerSocket.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.exe
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll.config
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.deps.json
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.runtimeconfig.json
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.pdb
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.AssemblyReference.cache
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfoInputs.cache
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfo.cs
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CopyComplete
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.dll
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\refint\ServerSocket.dll
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.pdb
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.genruntimeconfig.cache
+D:\C#\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ref\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.exe
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll.config
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.deps.json
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.runtimeconfig.json
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.AssemblyReference.cache
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfoInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfo.cs
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CopyComplete
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\refint\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.genruntimeconfig.cache
+C:\Users\otaku\Desktop\Remote Cache App\ServerSocket\obj\Debug\net6.0-windows\ref\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.exe
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll.config
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.deps.json
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.runtimeconfig.json
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.AssemblyReference.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfoInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfo.cs
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CopyComplete
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\refint\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.genruntimeconfig.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\obj\Debug\net6.0-windows\ref\ServerSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\TableData.pdb
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\TableData.dll
+D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\TableData.pdb

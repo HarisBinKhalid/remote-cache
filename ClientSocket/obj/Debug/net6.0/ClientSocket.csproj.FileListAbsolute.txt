@@ -1,0 +1,30 @@
+D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\ClientSocket.deps.json
+D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\ClientSocket.dll
+D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\ClientSocket.pdb
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.AssemblyReference.cache
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.AssemblyInfoInputs.cache
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.AssemblyInfo.cs
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CoreCompileInputs.cache
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.dll
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\refint\ClientSocket.dll
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.pdb
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ref\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\bin\Debug\net6.0\ClientSocket.deps.json
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\bin\Debug\net6.0\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\bin\Debug\net6.0\ClientSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.AssemblyReference.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.AssemblyInfoInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.AssemblyInfo.cs
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\refint\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ref\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\bin\Debug\net6.0\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\bin\Debug\net6.0\TableData.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CopyComplete
+D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\TableData.dll
+D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\TableData.pdb
+D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CopyComplete

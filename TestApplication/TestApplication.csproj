@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ClientSocket">
+      <HintPath>..\ClientSocket\bin\Debug\net6.0\ClientSocket.dll</HintPath>
+    </Reference>
+    <Reference Include="TableData">
+      <HintPath>..\TableData\bin\Debug\net6.0\TableData.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

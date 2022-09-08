@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/gKbO8CTWtWC+81fSH1WjL9xOVta3P4jqLNNDoSUTLIjy+PZZEskIGveYM+CKB9LFl7w1Rr41+se15Sk7Lzkw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Remote Cache App\\ServerSocket\\ServerSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otaku\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\otaku\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\otaku\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\otaku\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\otaku\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\otaku\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\otaku\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

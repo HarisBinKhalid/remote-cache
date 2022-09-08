@@ -1,0 +1,24 @@
+D:\C#\Remote Cache App\TableData\bin\Debug\net6.0\TableData.deps.json
+D:\C#\Remote Cache App\TableData\bin\Debug\net6.0\TableData.dll
+D:\C#\Remote Cache App\TableData\bin\Debug\net6.0\TableData.pdb
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.csproj.AssemblyReference.cache
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.AssemblyInfoInputs.cache
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.AssemblyInfo.cs
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.csproj.CoreCompileInputs.cache
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.dll
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\refint\TableData.dll
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\TableData.pdb
+D:\C#\Remote Cache App\TableData\obj\Debug\net6.0\ref\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\bin\Debug\net6.0\TableData.deps.json
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\bin\Debug\net6.0\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\bin\Debug\net6.0\TableData.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.csproj.AssemblyReference.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.AssemblyInfoInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.AssemblyInfo.cs
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\refint\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\ref\TableData.dll

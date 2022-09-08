@@ -1,0 +1,94 @@
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.exe
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.deps.json
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.runtimeconfig.json
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.pdb
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\ClientSocket.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\ClientSocket.pdb
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.csproj.AssemblyReference.cache
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfoInputs.cache
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfo.cs
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CoreCompileInputs.cache
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CopyComplete
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.dll
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\refint\TestApplication.dll
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.pdb
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.genruntimeconfig.cache
+D:\C#\Remote Cache App\TestApplication\obj\Debug\net6.0\ref\TestApplication.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.dll.config
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.exe
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.dll.config
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.deps.json
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.runtimeconfig.json
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\TestApplication.pdb
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\bin\Debug\net6.0\ClientSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.csproj.AssemblyReference.cache
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfoInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfo.cs
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CopyComplete
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\refint\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.pdb
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\TestApplication.genruntimeconfig.cache
+C:\Users\otaku\Desktop\Remote Cache App\TestApplication\obj\Debug\net6.0\ref\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TestApplication.exe
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TestApplication.dll.config
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TestApplication.deps.json
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TestApplication.runtimeconfig.json
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TestApplication.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\ClientSocket.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\ClientSocket.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.csproj.AssemblyReference.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfoInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfo.cs
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CopyComplete
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\refint\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.pdb
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\TestApplication.genruntimeconfig.cache
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\obj\Debug\net6.0\ref\TestApplication.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TableData.dll
+C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TableData.pdb
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TableData.dll
+D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TableData.pdb
