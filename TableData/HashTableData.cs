@@ -6,7 +6,6 @@
         int funtion = 0;
         string key = "";
         object value = null;
-
         public HashTableData(int funtion, string key, object value)
         {
             this.funtion = funtion;

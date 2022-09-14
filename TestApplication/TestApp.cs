@@ -9,15 +9,18 @@ namespace Main
     {
         static void Main()
         {
-
-            //int port = int.Parse(ConfigurationManager.AppSettings["port"]);
-            //client.Connect("127.0.0.1", port);
-            //client.Add("1", "Text");
-            //client.SendData("1");
             Client client = new Client();
             Boolean check = true;
             int port = int.Parse(ConfigurationManager.AppSettings["port"]);
-            client.Connect("127.0.0.1", port);
+            try
+            {
+                client.Connect("127.0.0.1", port);
+                Console.WriteLine("Connected to server");
+            }
+            catch
+            {
+                Console.WriteLine("Could not connect to server");
+            }
 
             while (true)
             {
@@ -43,7 +46,14 @@ namespace Main
                             key = Console.ReadLine();
                             Console.Write("Enter value: ");
                             value = Console.ReadLine();
-                            client.Add(key, value);
+                            try
+                            {
+                                client.Add(key, value);
+                            }
+                            catch
+                            {
+                                Console.WriteLine("Key already exists");
+                            }
                             break;
                         }
                     case "2":
@@ -88,10 +98,8 @@ namespace Main
                             Console.WriteLine("Wrong input");
                             break;
                         }
-                            
                  }
                 Console.WriteLine("");
-                
             }
         }
     }
