@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Remote Cache App\\ServerSocket\\ServerSocket.csproj": {}
+    "D:\\C#\\RemoteCacheApp\\ServerSocket\\ServerSocket.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Remote Cache App\\ServerSocket\\ServerSocket.csproj": {
+    "D:\\C#\\RemoteCacheApp\\ServerSocket\\ServerSocket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Remote Cache App\\ServerSocket\\ServerSocket.csproj",
+        "projectUniqueName": "D:\\C#\\RemoteCacheApp\\ServerSocket\\ServerSocket.csproj",
         "projectName": "ServerSocket",
-        "projectPath": "D:\\C#\\Remote Cache App\\ServerSocket\\ServerSocket.csproj",
+        "projectPath": "D:\\C#\\RemoteCacheApp\\ServerSocket\\ServerSocket.csproj",
         "packagesPath": "C:\\Users\\otaku\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Remote Cache App\\ServerSocket\\obj\\",
+        "outputPath": "D:\\C#\\RemoteCacheApp\\ServerSocket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\otaku\\AppData\\Roaming\\NuGet\\NuGet.Config",

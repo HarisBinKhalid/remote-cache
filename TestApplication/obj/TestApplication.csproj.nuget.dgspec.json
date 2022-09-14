@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Remote Cache App\\TestApplication\\TestApplication.csproj": {}
+    "D:\\C#\\RemoteCacheApp\\TestApplication\\TestApplication.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Remote Cache App\\TestApplication\\TestApplication.csproj": {
+    "D:\\C#\\RemoteCacheApp\\TestApplication\\TestApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Remote Cache App\\TestApplication\\TestApplication.csproj",
+        "projectUniqueName": "D:\\C#\\RemoteCacheApp\\TestApplication\\TestApplication.csproj",
         "projectName": "TestApplication",
-        "projectPath": "D:\\C#\\Remote Cache App\\TestApplication\\TestApplication.csproj",
+        "projectPath": "D:\\C#\\RemoteCacheApp\\TestApplication\\TestApplication.csproj",
         "packagesPath": "C:\\Users\\otaku\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Remote Cache App\\TestApplication\\obj\\",
+        "outputPath": "D:\\C#\\RemoteCacheApp\\TestApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\otaku\\AppData\\Roaming\\NuGet\\NuGet.Config",

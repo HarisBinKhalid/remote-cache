@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientSocket", "ClientSocke
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApplication", "TestApplication\TestApplication.csproj", "{A4731153-88CE-4E5A-AADD-D7713EFE3A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableData", "TableData\TableData.csproj", "{6DEFC982-95C0-49B5-958C-937371C79AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableData", "TableData\TableData.csproj", "{6DEFC982-95C0-49B5-958C-937371C79AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWindowService", "ServerWindowService\ServerWindowService.csproj", "{5730656E-C1FD-493B-8193-9FA95C6F89D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6DEFC982-95C0-49B5-958C-937371C79AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DEFC982-95C0-49B5-958C-937371C79AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DEFC982-95C0-49B5-958C-937371C79AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5730656E-C1FD-493B-8193-9FA95C6F89D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5730656E-C1FD-493B-8193-9FA95C6F89D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5730656E-C1FD-493B-8193-9FA95C6F89D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5730656E-C1FD-493B-8193-9FA95C6F89D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

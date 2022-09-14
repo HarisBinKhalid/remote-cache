@@ -422,11 +422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Remote Cache App\\ClientSocket\\ClientSocket.csproj",
+      "projectUniqueName": "D:\\C#\\RemoteCacheApp\\ClientSocket\\ClientSocket.csproj",
       "projectName": "ClientSocket",
-      "projectPath": "D:\\C#\\Remote Cache App\\ClientSocket\\ClientSocket.csproj",
+      "projectPath": "D:\\C#\\RemoteCacheApp\\ClientSocket\\ClientSocket.csproj",
       "packagesPath": "C:\\Users\\otaku\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Remote Cache App\\ClientSocket\\obj\\",
+      "outputPath": "D:\\C#\\RemoteCacheApp\\ClientSocket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\otaku\\AppData\\Roaming\\NuGet\\NuGet.Config",

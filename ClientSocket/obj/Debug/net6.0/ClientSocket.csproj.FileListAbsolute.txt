@@ -28,3 +28,18 @@ C:\Users\otaku\Desktop\Remote Cache App - Copy\ClientSocket\obj\Debug\net6.0\Cli
 D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\TableData.dll
 D:\C#\Remote Cache App\ClientSocket\bin\Debug\net6.0\TableData.pdb
 D:\C#\Remote Cache App\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CopyComplete
+D:\C#\RemoteCacheApp\ClientSocket\bin\Debug\net6.0\ClientSocket.deps.json
+D:\C#\RemoteCacheApp\ClientSocket\bin\Debug\net6.0\ClientSocket.dll
+D:\C#\RemoteCacheApp\ClientSocket\bin\Debug\net6.0\ClientSocket.pdb
+D:\C#\RemoteCacheApp\ClientSocket\bin\Debug\net6.0\TableData.dll
+D:\C#\RemoteCacheApp\ClientSocket\bin\Debug\net6.0\TableData.pdb
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.AssemblyReference.cache
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.AssemblyInfoInputs.cache
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.AssemblyInfo.cs
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CoreCompileInputs.cache
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.csproj.CopyComplete
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.dll
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\refint\ClientSocket.dll
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ClientSocket.pdb
+D:\C#\RemoteCacheApp\ClientSocket\obj\Debug\net6.0\ref\ClientSocket.dll

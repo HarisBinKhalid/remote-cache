@@ -114,3 +114,33 @@ C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-win
 C:\Users\otaku\Desktop\Remote Cache App - Copy\ServerSocket\bin\Debug\net6.0-windows\TableData.pdb
 D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\TableData.dll
 D:\C#\Remote Cache App\ServerSocket\bin\Debug\net6.0-windows\TableData.pdb
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.exe
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll.config
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.deps.json
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.runtimeconfig.json
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\ServerSocket.pdb
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\TableData.dll
+D:\C#\RemoteCacheApp\ServerSocket\bin\Debug\net6.0-windows\TableData.pdb
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.AssemblyReference.cache
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfoInputs.cache
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.AssemblyInfo.cs
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CoreCompileInputs.cache
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.csproj.CopyComplete
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.dll
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\refint\ServerSocket.dll
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.pdb
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ServerSocket.genruntimeconfig.cache
+D:\C#\RemoteCacheApp\ServerSocket\obj\Debug\net6.0-windows\ref\ServerSocket.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Remote Cache App\\TableData\\TableData.csproj": {}
+    "D:\\C#\\RemoteCacheApp\\TableData\\TableData.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Remote Cache App\\TableData\\TableData.csproj": {
+    "D:\\C#\\RemoteCacheApp\\TableData\\TableData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Remote Cache App\\TableData\\TableData.csproj",
+        "projectUniqueName": "D:\\C#\\RemoteCacheApp\\TableData\\TableData.csproj",
         "projectName": "TableData",
-        "projectPath": "D:\\C#\\Remote Cache App\\TableData\\TableData.csproj",
+        "projectPath": "D:\\C#\\RemoteCacheApp\\TableData\\TableData.csproj",
         "packagesPath": "C:\\Users\\otaku\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Remote Cache App\\TableData\\obj\\",
+        "outputPath": "D:\\C#\\RemoteCacheApp\\TableData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\otaku\\AppData\\Roaming\\NuGet\\NuGet.Config",

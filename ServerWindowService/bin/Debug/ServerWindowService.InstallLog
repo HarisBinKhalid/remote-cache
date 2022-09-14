@@ -1,0 +1,108 @@
+﻿Installing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Installing service ServerWindowService...
+Service ServerWindowService has been successfully installed.
+Creating EventLog source ServerWindowService in log Application...
+Committing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Uninstalling assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Removing EventLog source ServerWindowService.
+Service ServerWindowService is being removed from the system...
+Service ServerWindowService was successfully removed from the system.
+Installing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Installing service ServerWindowService...
+Service ServerWindowService has been successfully installed.
+Creating EventLog source ServerWindowService in log Application...
+Committing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Uninstalling assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Removing EventLog source ServerWindowService.
+Service ServerWindowService is being removed from the system...
+Service ServerWindowService was successfully removed from the system.
+Installing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Installing service ServerWindowService...
+Service ServerWindowService has been successfully installed.
+Creating EventLog source ServerWindowService in log Application...
+Committing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Uninstalling assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Removing EventLog source ServerWindowService.
+Service ServerWindowService is being removed from the system...
+Service ServerWindowService was successfully removed from the system.
+Attempt to stop service ServerWindowService.
+Uninstalling assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Removing EventLog source ServerWindowService.
+Warning: The source ServerWindowService is not registered on the local machine.
+Service ServerWindowService is being removed from the system...
+Service ServerWindowService was successfully removed from the system.
+Attempt to stop service ServerWindowService.
+Installing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Installing service ServerWindowService...
+Service ServerWindowService has been successfully installed.
+Creating EventLog source ServerWindowService in log Application...
+Committing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Uninstalling assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Removing EventLog source ServerWindowService.
+Service ServerWindowService is being removed from the system...
+Service ServerWindowService was successfully removed from the system.
+Installing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+Installing service ServerWindowService...
+Service ServerWindowService has been successfully installed.
+Creating EventLog source ServerWindowService in log Application...
+Committing assembly 'D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.InstallLog
+   assemblypath = D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe

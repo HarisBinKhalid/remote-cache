@@ -1,0 +1,20 @@
+D:\C#\Remote Cache App\ServerWindowService\bin\Debug\ServerWindowService.exe.config
+D:\C#\Remote Cache App\ServerWindowService\bin\Debug\ServerWindowService.exe
+D:\C#\Remote Cache App\ServerWindowService\bin\Debug\ServerWindowService.pdb
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.csproj.AssemblyReference.cache
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.csproj.SuggestedBindingRedirects.cache
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.ProjectInstaller.resources
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.csproj.GenerateResource.cache
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.csproj.CoreCompileInputs.cache
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.exe
+D:\C#\Remote Cache App\ServerWindowService\obj\Debug\ServerWindowService.pdb
+D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe.config
+D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.exe
+D:\C#\RemoteCacheApp\ServerWindowService\bin\Debug\ServerWindowService.pdb
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.csproj.AssemblyReference.cache
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.csproj.SuggestedBindingRedirects.cache
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.ProjectInstaller.resources
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.csproj.GenerateResource.cache
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.csproj.CoreCompileInputs.cache
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.exe
+D:\C#\RemoteCacheApp\ServerWindowService\obj\Debug\ServerWindowService.pdb

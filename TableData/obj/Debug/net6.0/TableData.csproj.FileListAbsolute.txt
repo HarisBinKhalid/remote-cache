@@ -22,3 +22,15 @@ C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableD
 C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\refint\TableData.dll
 C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\TableData.pdb
 C:\Users\otaku\Desktop\Remote Cache App - Copy\TableData\obj\Debug\net6.0\ref\TableData.dll
+D:\C#\RemoteCacheApp\TableData\bin\Debug\net6.0\TableData.deps.json
+D:\C#\RemoteCacheApp\TableData\bin\Debug\net6.0\TableData.dll
+D:\C#\RemoteCacheApp\TableData\bin\Debug\net6.0\TableData.pdb
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.csproj.AssemblyReference.cache
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.AssemblyInfoInputs.cache
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.AssemblyInfo.cs
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.csproj.CoreCompileInputs.cache
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.dll
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\refint\TableData.dll
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\TableData.pdb
+D:\C#\RemoteCacheApp\TableData\obj\Debug\net6.0\ref\TableData.dll

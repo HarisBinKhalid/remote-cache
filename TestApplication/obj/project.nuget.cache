@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2jnf4E0JsIA7Zqd2wyzUdaOKesI67L3JPeI/xXqikTi5jz152GVqLFgJ6E3shhhIN7TuQFmvU8OW8YR/Uk/q4w==",
+  "dgSpecHash": "bFzQYbEvzltMyXzH+rG32V7SMSS3ZlvXCtLdqNSpfnwwSVwX8ItywLkbLczoizHlEm06XBeq82QFjZgpD9KlpQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Remote Cache App\\TestApplication\\TestApplication.csproj",
+  "projectFilePath": "D:\\C#\\RemoteCacheApp\\TestApplication\\TestApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otaku\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\otaku\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",

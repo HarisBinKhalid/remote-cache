@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qi/IgIgKrnB8A+JzeH6U0NZrM3TgKFchRhVytzSM03276RomQeDoNu7OWyHd+9W1mvK1dg3og3sFDYMxgsUFg==",
+  "dgSpecHash": "cG/CMSqjVTogYwjx+SUMXiFP5S1Zrs+AdRbygkMurh5ElI4fbChPbI7yimt8E0xTsgOUmyk0UIIXFV17h/HtFw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Remote Cache App\\ClientSocket\\ClientSocket.csproj",
+  "projectFilePath": "D:\\C#\\RemoteCacheApp\\ClientSocket\\ClientSocket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otaku\\.nuget\\packages\\awssdk.core\\3.7.12.27\\awssdk.core.3.7.12.27.nupkg.sha512",
     "C:\\Users\\otaku\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

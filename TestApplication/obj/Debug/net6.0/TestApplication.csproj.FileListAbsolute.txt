@@ -92,3 +92,35 @@ C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\
 C:\Users\otaku\Desktop\Remote Cache App - Copy\TestApplication\bin\Debug\net6.0\TableData.pdb
 D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TableData.dll
 D:\C#\Remote Cache App\TestApplication\bin\Debug\net6.0\TableData.pdb
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TestApplication.exe
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TestApplication.dll.config
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TestApplication.deps.json
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TestApplication.runtimeconfig.json
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TestApplication.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TestApplication.pdb
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\ClientSocket.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TableData.dll
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\ClientSocket.pdb
+D:\C#\RemoteCacheApp\TestApplication\bin\Debug\net6.0\TableData.pdb
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.csproj.AssemblyReference.cache
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfoInputs.cache
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.AssemblyInfo.cs
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CoreCompileInputs.cache
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.csproj.CopyComplete
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.dll
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\refint\TestApplication.dll
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.pdb
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\TestApplication.genruntimeconfig.cache
+D:\C#\RemoteCacheApp\TestApplication\obj\Debug\net6.0\ref\TestApplication.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G/gKbO8CTWtWC+81fSH1WjL9xOVta3P4jqLNNDoSUTLIjy+PZZEskIGveYM+CKB9LFl7w1Rr41+se15Sk7Lzkw==",
+  "dgSpecHash": "BIQ0eXhKtz9TQeNCwWizUb1ZNzHmHszrqcS4gO9tBhM5Edhsx8l1pcmIFDg4ie0giTkFIEVIRsmOPPs6jJbz6g==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Remote Cache App\\ServerSocket\\ServerSocket.csproj",
+  "projectFilePath": "D:\\C#\\RemoteCacheApp\\ServerSocket\\ServerSocket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otaku\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\otaku\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
